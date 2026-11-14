@@ -1,0 +1,6 @@
+{
+  "name": "my-first-plugin",
+  "description": "Mera pehla plugin",
+  "version": "1.0.0",
+  "author": { "name": "Aap ka naam" }
+}

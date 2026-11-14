@@ -1,0 +1,10 @@
+{
+  "name": "my-marketplace",
+  "owner": { "name": "Ali" },
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "source": "./plugins/my-first-plugin"
+    }
+  ]
+}
